@@ -37,5 +37,14 @@
 
 ![이미지 003](https://user-images.githubusercontent.com/60869806/85682944-b9517980-b707-11ea-8f8e-b14ba6f1a3d2.png)
 
+----------------------------
+#MY PAGE UI
 
+![이미지 004](https://user-images.githubusercontent.com/60869806/85683259-06355000-b708-11ea-8697-27a98e3d58d9.png)
+
+
+------------------------------------
+#매칭 완료 페이지
+
+![이미지 005](https://user-images.githubusercontent.com/60869806/85683265-07667d00-b708-11ea-8a0b-2ba8c520c7a7.png)
 
